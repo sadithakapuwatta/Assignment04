@@ -1,0 +1,1 @@
+Prescription: JohnD DoeBBC, Address: 123 Example Street, Suburb, 45678, Country, Sphere: -2.50, Cylinder: 1.75, Axis: 90, Date: 22/10/24, Optometrist: Dr. Andrew Smith
